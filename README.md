@@ -3,11 +3,25 @@
     <img src="https://github-readme-stats.vercel.app/api?username=wtang98&show_icons=true&theme=tokyonight"/>
   </a>
  </div>
-##About me 
+<div align="center">
+<h2>
+I'm Salim
+</h2>
+ <h3>
+  🖥️ I am a full stack developer based in London, United Kingdom.
+</h3>  
+<h3>
+  🎓 I have graduated the _nology bootcamp as well as BSc in Mathematics at Royal Holloway University.
+</h3>    
+<h3>
+  📓 I am currently learning Next.js and Tailwind CSS.
+</h3>      
+<h3>
+  ⚙️ I am also currently working on an Instagram clone currently.
+</h3>
+</div>
 
-I am a 
-
-💻    Tech Stack: 
+<hr style="border:2px solid gray"> </hr>
 
  <div align="center">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
