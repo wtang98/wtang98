@@ -4,21 +4,15 @@
   </a>
  </div>
 <div align="center">
-<h2>
-I'm Salim
-</h2>
+ <h2>
+ I'm Wei-Tong Tang
+ </h2>
+  <h3>
+   🖥️ I am a full stack developer based in London, United Kingdom.
+ </h3>  
  <h3>
-  🖥️ I am a full stack developer based in London, United Kingdom.
-</h3>  
-<h3>
-  🎓 I have graduated the _nology bootcamp as well as BSc in Mathematics at Royal Holloway University.
-</h3>    
-<h3>
-  📓 I am currently learning Next.js and Tailwind CSS.
-</h3>      
-<h3>
-  ⚙️ I am also currently working on an Instagram clone currently.
-</h3>
+   🎓 I have graduated the _nology bootcamp and read War and Society at Swansea Univeristy
+ </h3>    
 </div>
 
 <hr style="border:2px solid gray"> </hr>
