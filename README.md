@@ -13,7 +13,7 @@
  <h3>
    🎓 I have graduated the _nology bootcamp and read War and Society at Swansea Univeristy
  </h3>   
- <p> <a href = "https://wtang98.github.io/reactPortfolio/" target = "_blank"> :notebook: Personal Portfolio </a> </p> 
+ <p> <a href = "https://wtang98.github.io/improved-port/" target = "_blank"> :notebook: Personal Portfolio </a> </p> 
 <p> <a href = "https://www.linkedin.com/in/wei-tong-tang-81bb851b2/" target = "_blank"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
 </div>
 
